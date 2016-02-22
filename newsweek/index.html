@@ -7872,6 +7872,11 @@
             li.offset-r {
                   margin-left: -15px;;
             }
+
+            .ibtmedia-form-placeholder {
+                margin-bottom: 10px;
+            }
+
         }
         
         @media only screen and (max-width:320px) {
@@ -7894,6 +7899,11 @@
             li.offset-r {
                   margin-left: -15px;;
             }
+
+            .ibtmedia-form-placeholder {
+                margin-bottom: 10px;
+            }
+
         }
         /* ]]> */
     </style>
@@ -8192,7 +8202,27 @@
                 <div class="dropdown">
                   <div class="dropdown-title">Topics</div>
                   <ul class="page-nav">
-                    <li class="first leaf us"><a href="/us" title="Get the latest U.S. news, video and opinion about U.S. politics, U.S. culture, U.S. jobs and more. ">U.S.</a></li>
+                    <li class="first leaf hidden-lg">
+                      <div class="ibtmedia-form-placeholder hidden-lg">
+                        <div class="search_block_form">
+                          <form action="/ibtmedia_form/search_block_form" method="post" id="search-block-form" accept-charset="UTF-8">
+                            <div>
+                              <div class="container-inline">
+                                <h2 class="element-invisible">Search form</h2>
+                                <div class="form-item form-type-textfield form-item-search-block-form">
+                                  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+                                  <input title="Enter the terms you wish to search for." placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
+                                </div>
+                                <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div>
+                                <input type="hidden" name="form_build_id" value="form-BWAK1lQCbWCDdQulHL-GZDd35-l7ZLAcVXgnUAnI0Z4">
+                                <input type="hidden" name="form_id" value="search_block_form">
+                              </div>
+                            </div>
+                          </form>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="leaf us"><a href="/us" title="Get the latest U.S. news, video and opinion about U.S. politics, U.S. culture, U.S. jobs and more. ">U.S.A</a></li>
                     <li class="leaf world"><a href="/world" title="Get the latest international news, video and opinion from around the world including world politics and world business.">World</a></li>
                     <li class="leaf business"><a href="/business" title="Get the latest international business and financial news, along with opinion and video about unemployment, the economy, politics, debt, markets and more.">Business</a></li>
                     <li class="leaf tech-science"><a href="/tech-science" title="Get the latest technology news and video about mobile devices, technology trends, the internet, privacy and more.">Tech &amp; Science</a></li>
@@ -8450,7 +8480,7 @@
                             <div class="dropdown hidden-lg">
                               <div class="dropdown-title">Topics</div>
                               <ul class="page-nav">
-                                <li class="first leaf us"><a href="/us" title="Get the latest U.S. news, video and opinion about U.S. politics, U.S. culture, U.S. jobs and more. ">U.S.</a></li>
+                                <li class="first leaf us"><a href="/us" title="Get the latest U.S. news, video and opinion about U.S. politics, U.S. culture, U.S. jobs and more. ">U.S.A</a></li>
                                 <li class="leaf world"><a href="/world" title="Get the latest international news, video and opinion from around the world including world politics and world business.">World</a></li>
                                 <li class="leaf business"><a href="/business" title="Get the latest international business and financial news, along with opinion and video about unemployment, the economy, politics, debt, markets and more.">Business</a></li>
                                 <li class="leaf tech-science"><a href="/tech-science" title="Get the latest technology news and video about mobile devices, technology trends, the internet, privacy and more.">Tech &amp; Science</a></li>
