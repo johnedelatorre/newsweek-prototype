@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Contact-Us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-Contact-Us" sketch:type="MSArtboardGroup" transform="translate(-776.000000, -1413.000000)">
+            <g id="Body" sketch:type="MSLayerGroup" transform="translate(369.000000, 327.000000)">
+                <g id="Submit-Form" transform="translate(2.000000, 922.000000)" sketch:type="MSShapeGroup">
+                    <g id="Arrow" transform="translate(405.000000, 164.000000)">
+                        <rect id="Rectangle-87" fill="#E5E5E5" x="0" y="0" width="42" height="42"></rect>
+                        <path d="M16.6322436,14.7677565 C17.3419015,14 18.464487,14 18.464487,14 L26.8644871,22.4 C26.8644871,22.4 27.4644871,23 26.8644871,23.6 C26.8644871,23.6 18.464487,32 18.464487,32 C18.464487,32 17.3417873,32 16.6348412,31.2296458 C18.7105536,29.1539334 24.2644871,23.6 24.2644871,23.6 C24.8644871,23 24.2644871,22.4 24.2644871,22.4 L16.6322436,14.7677565 Z" id="Drop-Copy" fill="#999999" transform="translate(21.881699, 23.000000) rotate(90.000000) translate(-21.881699, -23.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

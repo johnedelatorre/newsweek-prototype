@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26 20"
+	 enable-background="new 0 0 26 20" xml:space="preserve">
+<title>Share</title>
+<desc>Created with Sketch.</desc>
+<g id="Articles" sketch:type="MSPage">
+	<g id="Tablet-Standard-Article" transform="translate(-44.000000, -744.000000)" sketch:type="MSArtboardGroup">
+		<g id="Utility-Bar" transform="translate(25.000000, 543.000000)" sketch:type="MSLayerGroup">
+			<g id="More" transform="translate(1.000000, 182.000000)" sketch:type="MSShapeGroup">
+				<g id="Share" transform="translate(18.000000, 19.000000)">
+					<path id="Shape" fill="#231F20" d="M14.1,0v5H10C10,5,0,7.3,0,20c0,0,2.1-7.5,10.1-7.5h4v5L26,8.6L14.1,0L14.1,0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Article End Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Articles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-Standard-Article" sketch:type="MSArtboardGroup" transform="translate(-305.000000, -5546.000000)">
+            <g id="Article" sketch:type="MSLayerGroup" transform="translate(150.000000, 306.000000)">
+                <g id="Article-End-Icon" transform="translate(155.000000, 5240.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-3" fill="#FF001F" x="0" y="0" width="13" height="13"></rect>
+                    <path d="M3.5,10 L5.23108108,10 L5.23108108,6.08378378 L5.25,6.08378378 L7.92702703,10 L9.67702703,10 L9.67702703,3 L7.94594595,3 L7.94594595,6.92567568 L7.92702703,6.92567568 L5.36351351,3 L3.5,3 L3.5,10 Z" id="N" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

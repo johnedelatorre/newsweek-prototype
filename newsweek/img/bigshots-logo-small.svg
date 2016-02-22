@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Big Shots Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Mobile-Homepage" sketch:type="MSArtboardGroup" transform="translate(-297.000000, -3829.000000)">
+            <g id="Big-Shots" sketch:type="MSLayerGroup" transform="translate(0.000000, 3809.000000)">
+                <g id="Big-Shots-Logo" transform="translate(296.000000, 20.000000)" sketch:type="MSShapeGroup">
+                    <g id="Box" stroke="#181818">
+                        <path d="M5.5,3.6245184 L5.5,53.6245184" id="Line"></path>
+                        <path d="M5.51232946,53.5 L55.5123295,53.5" id="Line"></path>
+                        <path d="M1.5,7.6245184 L1.5,57.6245184" id="Line"></path>
+                        <path d="M1.51232946,57.5 L51.5123295,57.5" id="Line"></path>
+                        <rect id="Rectangle" stroke-width="4" fill="#181818" x="9" y="0" width="50" height="50"></rect>
+                    </g>
+                    <g id="Line-Copy-31-+-Line-+-Line" transform="translate(38.000000, 9.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                        <path d="M10,2 L0,12 L10,2 L10,2 Z" id="Line-Copy-31"></path>
+                        <path d="M10.5,1.5 L5.5,1.5" id="Line"></path>
+                        <path d="M10.5,1.5 L10.5,6.5" id="Line"></path>
+                    </g>
+                    <g id="Line-Copy-31-+-Line-+-Line-Copy" transform="translate(24.000000, 35.000000) rotate(-180.000000) translate(-24.000000, -35.000000) translate(18.000000, 29.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                        <path d="M10,2 L0,12 L10,2 L10,2 Z" id="Line-Copy-31"></path>
+                        <path d="M10.5,1.5 L5.5,1.5" id="Line"></path>
+                        <path d="M10.5,1.5 L10.5,6.5" id="Line"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
